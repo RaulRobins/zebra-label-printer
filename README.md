@@ -138,9 +138,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/zebra-label-printer](https://github.com/yourusername/zebra-label-printer)
+**Your Name**  
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?logo=github)](https://github.com/RaulRobins)  
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?logo=mail.ru)](mailto:raul.robins@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue?logo=linkedin)](www.linkedin.com/in/raulrobins)
+Project Link: [https://https://github.com/RaulRobins/zebra-label-printer](https://https://github.com/RaulRobins/zebra-label-printer)
 
 ---
 
