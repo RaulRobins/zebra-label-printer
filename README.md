@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-**Your Name**  
+**Raul Robins**  
 [![GitHub](https://img.shields.io/badge/GitHub-RaulRobins-blue?logo=github)](https://github.com/RaulRobins)  
 [![Email](https://img.shields.io/badge/Email-raul.robins@outlook.com-red?logo=mail.ru)](mailto:raul.robins@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul%20Robins-blue?logo=linkedin)](https://www.linkedin.com/in/raulrobins/)  
