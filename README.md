@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Your Name**  
 [![GitHub](https://img.shields.io/badge/GitHub-RaulRobins-blue?logo=github)](https://github.com/RaulRobins)  
 [![Email](https://img.shields.io/badge/Email-raul.robins@outlook.com-red?logo=mail.ru)](mailto:raul.robins@outlook.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul%Robins-blue?logo=linkedin)](www.linkedin.com/in/raulrobins)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul%20Robins-blue?logo=linkedin)](https://www.linkedin.com/in/raulrobins/)  
 Project Link: [https://https://github.com/RaulRobins/zebra-label-printer](https://https://github.com/RaulRobins/zebra-label-printer)
 
 ---
